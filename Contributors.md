@@ -17,6 +17,7 @@
 - [Amy Nelson](https://github.com/arrmkr)
 - [Elly Fan](https://github.com/ellyfan)
 - [Ashutosh Pandey](https://github.com/ap-darknight)
+- [Harshita Lashkari](https://github.com/harshitalashkari)
 - [Ilham Bara](https://github.com/ilhambara)
 - [Stephen Odundo](https://github.com/steveodds)
 - [Parikshit Ghosh](https://github.com/parikshitghosh3)
@@ -39,7 +40,7 @@
 - [Suprim Nakarmi](https://github.com/suprimnakarmi)
 - [Junyi Chen](https://github.com/junyi-chen0801)
 - [Moyan Zhou](https://github.com/bananannn)
-- [Geetika Bangera](https://github.com/gbangera)
+- [Geetika Bangera](https://github.com/gbanger
 - [Adit Sawant](https://github.com/aditsawant)
 - [Xin Zhao](https://github.com/zhaox1999))
 - [Revathy Punithan](https://github.com/revathypunithan)
